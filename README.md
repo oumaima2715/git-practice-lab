@@ -1,2 +1,1 @@
-# git-practice-lab
-Git Practice Lab 
+# Git Practice Lab
